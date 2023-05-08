@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(30, 172, 30);
+}
+
+.inicio {
+    color: #02060c;
+    border: 1px solid #02060c;
+
+    padding: 10px;
+
+    background-color: #11b949;
+
+}
+
+.baby {
+    color: #02060c;
+    border: 1px solid #02060c;
+
+    padding: 10px;
+    background-color: #11b949;
+}
+
+.futsal {
+    color: #02060c;
+    border: 1px solid #02060c;
+
+    padding: 10px;
+
+    background-color: #11b949;
+
+}
+
+.contenedor {
+    width: 60%;
+
+}
